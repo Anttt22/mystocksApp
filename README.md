@@ -1,0 +1,2 @@
+# mystocksApp
+login, jwt, sqldb, 
